@@ -1,4 +1,4 @@
-<p align="LEFT">
+<p align="center">
   <span style="display: inline-block; vertical-align: middle; font-size: 24px"><strong>Tanish Sharma</strong></span>
 </p>
 
