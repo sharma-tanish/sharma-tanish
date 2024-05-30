@@ -13,6 +13,4 @@
   <img src="https://img.icons8.com/color/96/000000/sql.png" alt="SQL" width="60" height="60" />
 </p>
 
-# Hacktoberfest
-
 [![An image of @tanishhsharmaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanishhsharmaa)](https://holopin.io/@tanishhsharmaa)
