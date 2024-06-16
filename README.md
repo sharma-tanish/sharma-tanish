@@ -9,7 +9,7 @@
   <img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="" width="60" height="60" />
   <img src="https://img.icons8.com/color/96/000000/python.png" alt="" width="60" height="60" />
   <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="" width="60" height="60" />
-  <img src="https://icons8.com/icon/4PiNHtUJVbLs/tailwind-css" alt="" width="60" height="60" />
+  <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="" width="60" height="60" />
   <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="" width="60" height="60" />
   <img src="https://img.icons8.com/color/96/000000/sql.png" alt="" width="60" height="60" />
 </p>
