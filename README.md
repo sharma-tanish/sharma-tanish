@@ -16,3 +16,5 @@
 </p>
 
 [![An image of @tanishhsharmaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanishhsharmaa)](https://holopin.io/@tanishhsharmaa)
+
+![footer](https://github.com/sharma-tanish/sharma-tanish/assets/114183137/cb024e59-2d4d-4856-8073-a520b7d2c705)
