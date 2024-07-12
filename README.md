@@ -2,10 +2,6 @@
   <img src="https://media.giphy.com/media/wwIdHyV4pMb1LrDwfF/giphy.gif" width="200"/>
 </div>
 <br>
-<div id="badges" align="center">
-  <a href = "https://www.linkedin.com/in/tanish-sharma/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-</div>
-<br>
 
 # Skills
 <p align="center">
