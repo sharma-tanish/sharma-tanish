@@ -30,12 +30,5 @@
   <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="AWS" width="60" height="60" />
   <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" alt="Docker" width="60" height="60" />
   <img src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" alt="Kubernetes" width="60" height="60" />
-  
-  
-  
-  
-  
-  
-  
+  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="Linux" width="60" height="60" />
 </p>
-
